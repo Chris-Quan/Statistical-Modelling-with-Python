@@ -18,8 +18,8 @@ One point of interest chosen was the ammount of review counts a restaruant had a
 
 from my results I concluded that the ammount of reviews vs free bikes have a small relationship where the review count doesn't seem to be affected by the ammount of free bikes for the most part
 
-<img src="graph1.png">
-<img src="result1.png">
+<img src="images/graph1.png">
+<img src="images/result1.png">
 
 ## Challenges 
 Cleaning and parsing the data was the most difficult task. Each api worked diffrently but foursquare API was the most difficult to work with, some restaurants were missing values (longitude and latiude) and some given data was nonsensical
