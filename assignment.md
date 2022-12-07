@@ -34,7 +34,8 @@ Complete the **yelp_foursquare_EDA.ipynb** notebook to demonstrate how you execu
 3. Create your own SQLite database and store the data you've collected on the POIs. **Put some thought into the structure of your database.** We've used and created sqlite3 databases before in the activity [**SQL in Python**](https://data.compass.lighthouselabs.ca/b9e08cd5-68c6-490c-a32b-a66f01bf53e1).
 Validate your data.
 
-Complete the **joining_data.ipynb** notebook to demonstrate how you executed the tasks above.
+Complete the **joining_data.ipynb** notebook to demonstrate how you executed
++ the tasks above.
 
 
 ## Part 4: Building a Model
